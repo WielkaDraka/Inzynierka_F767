@@ -71,7 +71,7 @@ void set_filter(float dev_v, float dev_w)
 void gyro_Roll(void)
 {
 	/* x(t+1|t) = Ax(t|t) + Bu(t) */
-	u[0] = (float) gyro.x*250/32768;
+	u[0] = (float) gyro.x*245/32768;
 	matrix_2x2_mul_2x1(A, gx.x_post, Ax);
 	matrix_2x1_mul_1x1(B, u, Bu);
 	matrix_2x1_add_2x1(Ax, Bu, gx.x_pri);
@@ -113,7 +113,7 @@ void gyro_Roll(void)
 void gyro_Pitch(void)
 {
 	/* x(t+1|t) = Ax(t|t) + Bu(t) */
-	u[0] = (float)gyro.y*250/32768;
+	u[0] = (float)gyro.y*245/32768;
 	matrix_2x2_mul_2x1(A, gy.x_post, Ax);
 	matrix_2x1_mul_1x1(B, u, Bu);
 	matrix_2x1_add_2x1(Ax, Bu, gy.x_pri);

@@ -77,6 +77,8 @@ float az = 0, ax = 0, ay = 0;
 float vz = 0, vx = 0, vy = 0;
 //position
 float xz = 0, xx = 0, xy = 0;
+//angular_speed
+float Gyro_Roll = 0, Gyro_Pitch = 0, Gyro_Yaw = 0;
 // Roll, Pitch ,Yaw
 float Roll = 0, Pitch = 0, Yaw = 0;
 // Roll, Pitch, Yaw for Alpha, Beta filter
@@ -196,9 +198,12 @@ int main(void)
 
 	  //For measure angle - Alpa-beta and no filter
 	  //******************************************
-	  //Roll = (float)(gyro.x * 250) / rozmiar_int16_t;
-	  Yaw = (float)(gyro.z * 250) / rozmiar_int16_t;
-	  //Pitch = (float)(gyro.y * 250) / rozmiar_int16_t;
+	  //Gyro_Roll = (float)(gyro.x * 245) / rozmiar_int16_t;
+	  //Roll = Roll + dt * Gyro_Roll;
+	  Gyro_Yaw = (float)(gyro.z * 245) / rozmiar_int16_t;
+	  Yaw = Yaw + dt * Gyro_Yaw;
+	  //Gyro_Pitch = (float)(gyro.y * 245) / rozmiar_int16_t;
+	  //Pitch = Pitch + dt * Gyro_Pitch;
 
 	  //AB_Roll = AlphaBeta_gyro_X(Roll, 0.35, 0.1);
 	  //AB_Pitch = AlphaBeta_gyro_Y(Pitch, 0.35, 0.1);
@@ -282,11 +287,11 @@ int main(void)
 		 }
 		 for(int i = 0; i < maximum_data_size; i++)
 		 {
-			 printf("AccelerometerData: %0.04f, %0.04f, %0.04f \n", AltitudeMetersData[i],AltitudeMetersData[i],AltitudeMetersData[i]);
+			 printf("AltitudeMetersData: %0.04f \n", AltitudeMetersData[i]);
 		 }
 		 for(int i = 0; i < maximum_data_size; i++)
 		 {
-			 printf("TemperatureData: %0.04f, %0.04f, %0.04f \n", TemperatureData[i],TemperatureData[i],TemperatureData[i]);
+			 printf("TemperatureData: %0.04f \n", TemperatureData[i]);
 		 }
 		 for(int i = 0; i < maximum_data_size; i++)
 		 {

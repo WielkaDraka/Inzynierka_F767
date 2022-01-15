@@ -1,0 +1,1000 @@
+GyroscopeData: 2.9847, -50.6115, -0.2010 
+GyroscopeData: 1.1455, -44.4874, -0.6369 
+GyroscopeData: -0.6266, -38.8124, -1.1245 
+GyroscopeData: -3.5991, -31.5368, -1.7023 
+GyroscopeData: -4.6074, -29.5596, -1.8693 
+GyroscopeData: -5.4021, -27.4818, -1.5421 
+GyroscopeData: -4.3938, -25.6469, -1.2135 
+GyroscopeData: -4.4350, -23.8009, -1.0508 
+GyroscopeData: -4.0171, -22.7956, -0.7156 
+GyroscopeData: -3.6835, -20.6878, 0.0237 
+GyroscopeData: -3.5220, -17.5248, 1.7555 
+GyroscopeData: -2.6952, -13.7104, 4.5528 
+GyroscopeData: -0.4637, -12.9988, 8.7676 
+GyroscopeData: 0.8082, -12.1706, 14.0567 
+GyroscopeData: 2.5014, -11.0251, 20.2903 
+GyroscopeData: 4.6788, -10.5990, 27.4811 
+GyroscopeData: 5.7860, -10.5747, 35.0343 
+GyroscopeData: 5.8502, -11.4850, 42.5846 
+GyroscopeData: 3.6197, -11.4702, 50.2585 
+GyroscopeData: -5.0404, -16.6903, 58.2023 
+GyroscopeData: -5.1080, -16.4570, 66.4268 
+GyroscopeData: -7.3439, -15.1686, 74.9492 
+GyroscopeData: -10.0281, -15.7608, 83.1862 
+GyroscopeData: -11.4356, -16.9217, 91.0552 
+GyroscopeData: -11.8979, -20.0326, 98.1853 
+GyroscopeData: -9.8038, -20.8931, 104.2272 
+GyroscopeData: -9.8310, -17.5983, 108.5271 
+GyroscopeData: -8.4252, -23.7040, 112.4609 
+GyroscopeData: -6.3201, -20.2649, 115.8400 
+GyroscopeData: -6.4318, -18.4261, 118.6162 
+GyroscopeData: -6.6875, -17.9540, 120.4742 
+GyroscopeData: -7.0763, -20.3458, 121.3485 
+GyroscopeData: -5.8893, -22.6234, 121.3334 
+GyroscopeData: -4.9170, -24.0104, 120.7894 
+GyroscopeData: -4.7168, -21.5676, 119.6881 
+GyroscopeData: -4.3160, -19.3244, 118.3921 
+GyroscopeData: -6.4951, -17.4393, 117.4629 
+GyroscopeData: -9.1274, -16.6937, 116.7405 
+GyroscopeData: -10.5392, -17.5298, 116.5789 
+GyroscopeData: -10.0393, -18.0154, 117.0469 
+GyroscopeData: -11.5851, -19.3710, 117.7624 
+GyroscopeData: -10.5248, -14.9811, 119.1127 
+GyroscopeData: -9.9553, -13.5280, 120.1474 
+GyroscopeData: -9.2237, -13.6039, 121.3231 
+GyroscopeData: -8.5267, -16.0395, 122.1859 
+GyroscopeData: -6.9776, -16.8757, 122.4240 
+GyroscopeData: -6.6528, -18.7292, 121.6676 
+GyroscopeData: -7.1615, -20.3283, 120.0438 
+GyroscopeData: -6.2389, -21.1795, 118.1046 
+GyroscopeData: -4.1369, -19.3252, 115.7333 
+GyroscopeData: -7.2477, -18.6616, 112.8206 
+GyroscopeData: -9.3431, -17.0548, 109.9429 
+GyroscopeData: -11.8652, -17.2705, 107.3854 
+GyroscopeData: -12.1940, -16.7431, 105.6266 
+GyroscopeData: -11.7040, -18.3440, 104.7639 
+GyroscopeData: -10.9179, -19.4134, 104.5604 
+GyroscopeData: -11.1625, -16.3432, 105.1789 
+GyroscopeData: -11.8169, -15.7584, 105.7339 
+GyroscopeData: -10.7557, -14.0865, 106.5367 
+GyroscopeData: -9.8766, -15.0087, 107.2097 
+GyroscopeData: -8.7974, -16.1655, 107.5780 
+GyroscopeData: -9.4258, -17.2135, 107.3190 
+GyroscopeData: -8.2265, -19.7291, 106.2570 
+GyroscopeData: -7.0775, -20.5545, 104.6165 
+GyroscopeData: -6.4665, -20.2574, 102.3527 
+GyroscopeData: -12.4890, -17.8622, 99.7760 
+GyroscopeData: -12.0415, -14.3440, 97.6938 
+GyroscopeData: -14.0170, -16.0005, 96.0361 
+GyroscopeData: -13.7327, -16.9203, 94.8966 
+GyroscopeData: -12.8727, -18.6029, 94.5236 
+GyroscopeData: -12.2570, -21.4217, 95.0978 
+GyroscopeData: -10.1780, -20.5518, 96.0675 
+GyroscopeData: -9.4444, -17.9632, 96.4699 
+GyroscopeData: -6.7371, -16.7976, 97.5832 
+GyroscopeData: -7.5677, -14.8624, 97.7168 
+GyroscopeData: -11.4360, -17.6142, 96.2338 
+GyroscopeData: -11.9676, -17.4783, 92.3360 
+GyroscopeData: -15.3125, -19.1015, 85.7082 
+GyroscopeData: -15.6360, -19.6491, 76.3224 
+GyroscopeData: -15.5433, -18.1081, 65.5849 
+GyroscopeData: -15.3043, -16.8907, 54.9373 
+GyroscopeData: -17.0016, -17.3536, 44.6185 
+GyroscopeData: -18.7185, -18.4568, 34.9999 
+GyroscopeData: -20.0697, -16.6248, 25.8411 
+GyroscopeData: -20.5057, -15.5404, 17.1985 
+GyroscopeData: -19.4055, -15.2647, 9.3442 
+GyroscopeData: -17.9328, -14.0622, 2.3379 
+GyroscopeData: -16.9400, -13.5284, -3.6081 
+GyroscopeData: -16.1321, -12.4125, -8.3467 
+GyroscopeData: -14.5304, -14.7215, -11.9224 
+GyroscopeData: -12.4737, -22.4063, -13.5328 
+GyroscopeData: -16.8697, -28.6038, -14.0016 
+GyroscopeData: -26.1557, -30.0742, -13.8057 
+GyroscopeData: -37.7515, -29.5500, -13.0730 
+GyroscopeData: -51.9350, -21.9894, -11.7488 
+GyroscopeData: -62.9600, -17.3700, -10.0290 
+GyroscopeData: -71.7682, -11.3565, -7.8604 
+GyroscopeData: -79.8084, -0.5753, -6.3156 
+GyroscopeData: -84.1000, 7.1256, -5.2732 
+GyroscopeData: -83.8711, 16.6144, -4.5660 
+GyroscopeData: -79.9796, 25.4329, -5.0183 
+GyroscopeData: -72.1230, 28.2127, -5.7579 
+GyroscopeData: -62.4036, 30.0748, -7.6056 
+GyroscopeData: -50.3704, 26.4161, -10.0463 
+GyroscopeData: -33.6154, 22.2393, -12.6761 
+GyroscopeData: -19.5976, 16.7474, -15.5583 
+GyroscopeData: -5.3066, 11.4156, -18.1633 
+GyroscopeData: 8.8708, 8.8958, -21.1313 
+GyroscopeData: 28.4342, 5.8964, -23.6941 
+GyroscopeData: 42.4080, -0.3486, -25.5362 
+GyroscopeData: 47.9390, -9.6437, -26.7640 
+GyroscopeData: 53.8144, -20.0948, -26.7040 
+GyroscopeData: 56.0118, -27.3657, -25.4875 
+GyroscopeData: 54.7029, -33.1555, -23.6123 
+GyroscopeData: 48.6684, -37.0003, -21.3912 
+GyroscopeData: 38.0240, -38.5376, -19.8181 
+GyroscopeData: 27.9069, -36.1901, -18.0293 
+GyroscopeData: 19.4469, -30.7325, -16.1067 
+GyroscopeData: -5.1739, -24.1592, -14.1173 
+GyroscopeData: -14.1889, -22.2944, -11.9101 
+GyroscopeData: -15.5590, -16.2370, -10.0213 
+GyroscopeData: -33.5301, -14.4963, -9.5046 
+GyroscopeData: -41.5765, -12.2105, -8.7350 
+GyroscopeData: -49.1866, -12.7522, -7.8877 
+GyroscopeData: -54.1400, -2.5983, -6.8065 
+GyroscopeData: -62.4660, 2.4353, -5.9782 
+GyroscopeData: -65.6572, 10.4699, -5.6268 
+GyroscopeData: -65.0777, 15.9967, -6.1946 
+GyroscopeData: -62.3421, 19.1167, -7.2267 
+GyroscopeData: -56.8705, 18.6432, -8.9071 
+GyroscopeData: -48.3354, 21.4074, -10.9844 
+GyroscopeData: -41.8164, 23.8640, -13.4374 
+GyroscopeData: -33.0475, 23.8111, -16.3870 
+GyroscopeData: -23.5114, 22.5445, -19.8045 
+GyroscopeData: -14.0342, 7.7833, -21.1843 
+GyroscopeData: -6.6704, -8.3511, -20.3743 
+GyroscopeData: 1.1224, -16.5437, -18.2506 
+GyroscopeData: 4.0915, -20.8570, -14.3082 
+GyroscopeData: 14.4182, -29.2992, -11.7025 
+GyroscopeData: 14.4544, -32.7702, -10.3029 
+GyroscopeData: 13.9572, -37.6710, -9.6643 
+GyroscopeData: 8.9797, -43.2999, -9.6610 
+GyroscopeData: 1.4856, -50.6101, -9.4775 
+GyroscopeData: -5.9461, -52.9612, -10.0853 
+GyroscopeData: -10.9774, -51.7123, -10.7159 
+GyroscopeData: -14.2013, -44.8149, -11.0304 
+GyroscopeData: -14.2845, -37.8975, -11.5004 
+GyroscopeData: -13.4934, -29.3748, -11.1439 
+GyroscopeData: -18.3157, -19.4581, -11.3482 
+GyroscopeData: -21.7166, -14.3588, -10.7768 
+GyroscopeData: -19.3573, -9.5338, -9.1459 
+GyroscopeData: -17.5261, -3.9666, -6.3960 
+GyroscopeData: -17.5332, 5.8971, -3.5958 
+GyroscopeData: -15.5848, 17.3045, -1.5404 
+GyroscopeData: -10.9489, 24.1986, -0.7969 
+GyroscopeData: -2.3049, 26.4179, -1.1718 
+GyroscopeData: 5.5134, 28.0173, -2.8296 
+GyroscopeData: 12.2611, 26.6623, -3.3849 
+GyroscopeData: 11.4365, 23.4225, -3.0820 
+GyroscopeData: 12.3855, 21.0800, -2.2228 
+GyroscopeData: 12.1155, 15.1210, -1.0496 
+GyroscopeData: 11.8244, 10.0696, 0.3442 
+GyroscopeData: 11.5156, 4.7574, 1.3402 
+GyroscopeData: 12.1437, -3.1260, 2.6958 
+GyroscopeData: 13.9886, -12.9955, 4.4079 
+GyroscopeData: 13.1098, -23.8221, 6.8601 
+GyroscopeData: 8.0979, -31.9943, 9.5576 
+GyroscopeData: 2.1326, -36.8091, 12.7957 
+GyroscopeData: -2.3163, -39.1734, 16.9609 
+GyroscopeData: -6.0537, -39.4380, 22.0300 
+GyroscopeData: -9.4672, -37.4379, 27.9550 
+GyroscopeData: -12.2266, -31.9826, 34.6093 
+GyroscopeData: -14.5609, -28.2960, 43.2161 
+GyroscopeData: -20.0581, -25.7392, 53.0543 
+GyroscopeData: -22.0479, -19.4242, 64.1255 
+GyroscopeData: -24.5263, -10.3868, 75.4845 
+GyroscopeData: -20.2361, -4.3048, 85.5309 
+GyroscopeData: -12.9497, -3.2432, 93.5759 
+GyroscopeData: -8.8937, -0.6893, 99.5634 
+GyroscopeData: -6.9881, 2.8265, 104.6388 
+GyroscopeData: -4.7743, 4.4932, 108.1065 
+GyroscopeData: -2.1871, 6.3192, 111.0630 
+GyroscopeData: -0.9130, 6.6710, 113.3915 
+GyroscopeData: -0.6337, 5.4940, 115.2990 
+GyroscopeData: -0.5623, 2.8799, 116.3403 
+GyroscopeData: -0.5776, 1.1019, 116.5899 
+GyroscopeData: 0.4430, 0.3209, 116.0512 
+GyroscopeData: 0.8769, 0.9395, 114.9965 
+GyroscopeData: 0.8672, 3.0943, 113.6545 
+GyroscopeData: -1.1040, 4.7380, 112.6044 
+GyroscopeData: -2.7918, 4.5545, 112.0405 
+GyroscopeData: -3.6774, 1.8607, 112.0117 
+GyroscopeData: -3.6604, -0.2817, 112.4485 
+GyroscopeData: -3.7347, -1.8217, 113.1250 
+GyroscopeData: -3.6777, 0.2587, 114.3013 
+GyroscopeData: -3.4411, 1.8743, 115.0531 
+GyroscopeData: -2.7445, 2.3939, 115.8654 
+GyroscopeData: -1.5282, 1.7961, 116.5783 
+GyroscopeData: -1.8772, 1.3514, 116.8587 
+GyroscopeData: -2.3023, 0.1267, 116.4375 
+AccelerometerData: -0.0013, -0.0137, -0.0929 
+AccelerometerData: -0.0064, -0.0596, -0.3683 
+AccelerometerData: -0.0258, -0.1490, -0.8244 
+AccelerometerData: -0.0639, -0.2840, -1.4730 
+AccelerometerData: -0.1136, -0.4570, -2.3091 
+AccelerometerData: -0.1700, -0.6645, -3.3266 
+AccelerometerData: -0.2315, -0.9064, -4.5353 
+AccelerometerData: -0.2983, -1.1815, -5.9316 
+AccelerometerData: -0.3686, -1.4893, -7.5144 
+AccelerometerData: -0.4397, -1.8286, -9.2842 
+AccelerometerData: -0.5078, -2.1934, -11.2429 
+AccelerometerData: -0.5679, -2.5774, -13.3902 
+AccelerometerData: -0.6200, -2.9844, -15.7262 
+AccelerometerData: -0.6688, -3.4195, -18.2560 
+AccelerometerData: -0.7114, -3.8777, -20.9809 
+AccelerometerData: -0.7455, -4.3570, -23.8978 
+AccelerometerData: -0.7728, -4.8577, -27.0039 
+AccelerometerData: -0.8040, -5.3870, -30.3018 
+AccelerometerData: -0.8576, -5.9567, -33.8037 
+AccelerometerData: -0.9324, -6.5657, -37.4867 
+AccelerometerData: -1.0225, -7.2090, -41.3377 
+AccelerometerData: -1.1332, -7.8822, -45.3737 
+AccelerometerData: -1.2650, -8.5848, -49.5913 
+AccelerometerData: -1.4167, -9.3256, -53.9963 
+AccelerometerData: -1.5821, -10.1109, -58.5881 
+AccelerometerData: -1.7580, -10.9393, -63.3675 
+AccelerometerData: -1.9427, -11.7929, -68.3589 
+AccelerometerData: -2.1303, -12.6715, -73.5376 
+AccelerometerData: -2.3240, -13.5773, -78.8827 
+AccelerometerData: -2.5281, -14.5023, -84.4198 
+AccelerometerData: -2.7424, -15.4514, -90.1495 
+AccelerometerData: -2.9642, -16.4296, -96.0620 
+AccelerometerData: -3.1912, -17.4441, -102.1546 
+AccelerometerData: -3.4260, -18.4982, -108.4377 
+AccelerometerData: -3.6699, -19.5807, -114.9342 
+AccelerometerData: -3.9283, -20.6821, -121.6379 
+AccelerometerData: -4.2070, -21.8034, -128.5334 
+AccelerometerData: -4.5045, -22.9452, -135.6129 
+AccelerometerData: -4.8182, -24.1142, -142.8678 
+AccelerometerData: -5.1525, -25.3164, -150.3169 
+AccelerometerData: -5.5036, -26.5552, -157.9624 
+AccelerometerData: -5.8663, -27.8233, -165.8173 
+AccelerometerData: -6.2416, -29.1087, -173.8751 
+AccelerometerData: -6.6265, -30.4089, -182.1126 
+AccelerometerData: -7.0182, -31.7321, -190.5375 
+AccelerometerData: -7.4158, -33.0843, -199.1518 
+AccelerometerData: -7.8238, -34.4649, -207.9521 
+AccelerometerData: -8.2439, -35.8788, -216.9352 
+AccelerometerData: -8.6733, -37.3275, -226.1129 
+AccelerometerData: -9.1162, -38.7995, -235.5081 
+AccelerometerData: -9.5825, -40.2917, -245.1016 
+AccelerometerData: -10.0734, -41.8056, -254.8789 
+AccelerometerData: -10.5846, -43.3405, -264.8423 
+AccelerometerData: -11.1124, -44.9030, -274.9906 
+AccelerometerData: -11.6556, -46.5001, -285.3322 
+AccelerometerData: -12.2129, -48.1374, -295.8617 
+AccelerometerData: -12.7882, -49.8106, -306.5915 
+AccelerometerData: -13.3812, -51.5095, -317.5133 
+AccelerometerData: -13.9865, -53.2264, -328.6185 
+AccelerometerData: -14.6017, -54.9642, -339.9164 
+AccelerometerData: -15.2294, -56.7294, -351.4009 
+AccelerometerData: -15.8691, -58.5234, -363.0688 
+AccelerometerData: -16.5181, -60.3516, -374.9194 
+AccelerometerData: -17.1761, -62.2160, -386.9605 
+AccelerometerData: -17.8612, -64.1193, -399.2129 
+AccelerometerData: -18.5788, -66.0555, -411.6657 
+AccelerometerData: -19.3153, -68.0101, -424.3082 
+AccelerometerData: -20.0707, -69.9839, -437.1323 
+AccelerometerData: -20.8427, -71.9861, -450.1303 
+AccelerometerData: -21.6321, -74.0220, -463.3134 
+AccelerometerData: -22.4374, -76.0967, -476.6786 
+AccelerometerData: -23.2574, -78.2097, -490.2306 
+AccelerometerData: -24.0900, -80.3442, -503.9897 
+AccelerometerData: -24.9330, -82.4967, -517.9556 
+AccelerometerData: -25.7955, -84.6710, -532.1038 
+AccelerometerData: -26.6807, -86.8689, -546.4203 
+AccelerometerData: -27.5917, -89.0926, -560.9211 
+AccelerometerData: -28.5298, -91.3407, -575.6186 
+AccelerometerData: -29.4878, -93.6142, -590.5081 
+AccelerometerData: -30.4633, -95.9076, -605.5949 
+AccelerometerData: -31.4611, -98.2170, -620.8781 
+AccelerometerData: -32.4886, -100.5445, -636.3543 
+AccelerometerData: -33.5482, -102.8960, -652.0204 
+AccelerometerData: -34.6392, -105.2700, -667.8761 
+AccelerometerData: -35.7570, -107.6631, -683.9226 
+AccelerometerData: -36.8979, -110.0789, -700.1598 
+AccelerometerData: -38.0632, -112.5182, -716.5863 
+AccelerometerData: -39.2542, -114.9813, -733.1993 
+AccelerometerData: -40.4671, -117.4716, -750.0016 
+AccelerometerData: -41.6946, -119.9923, -766.9983 
+AccelerometerData: -42.9398, -122.5407, -784.1851 
+AccelerometerData: -44.2213, -125.1072, -801.5471 
+AccelerometerData: -45.5578, -127.6811, -819.0740 
+AccelerometerData: -46.9655, -130.2623, -836.7549 
+AccelerometerData: -48.4581, -132.8483, -854.5693 
+AccelerometerData: -50.0403, -135.4368, -872.5045 
+AccelerometerData: -51.7161, -138.0304, -890.5542 
+AccelerometerData: -53.4925, -140.6261, -908.7056 
+AccelerometerData: -55.3728, -143.2264, -926.9581 
+AccelerometerData: -57.3575, -145.8302, -945.3251 
+AccelerometerData: -59.4370, -148.4304, -963.8240 
+AccelerometerData: -61.5900, -151.0304, -982.4780 
+AccelerometerData: -63.7925, -153.6360, -1001.3044 
+AccelerometerData: -66.0191, -156.2549, -1020.3096 
+AccelerometerData: -68.2502, -158.9044, -1039.5079 
+AccelerometerData: -70.4609, -161.5876, -1058.9097 
+AccelerometerData: -72.6255, -164.3023, -1078.5098 
+AccelerometerData: -74.7268, -167.0460, -1098.2997 
+AccelerometerData: -76.7600, -169.8103, -1118.2472 
+AccelerometerData: -78.7308, -172.5928, -1138.3220 
+AccelerometerData: -80.6320, -175.3879, -1158.5334 
+AccelerometerData: -82.4571, -178.1936, -1178.8934 
+AccelerometerData: -84.2110, -181.0143, -1199.4092 
+AccelerometerData: -85.9107, -183.8529, -1220.1014 
+AccelerometerData: -87.5867, -186.7154, -1240.9838 
+AccelerometerData: -89.2616, -189.6041, -1262.0620 
+AccelerometerData: -90.9501, -192.5050, -1283.3358 
+AccelerometerData: -92.7458, -195.4303, -1304.8518 
+AccelerometerData: -94.6659, -198.3817, -1326.5959 
+AccelerometerData: -96.6403, -201.3362, -1348.5109 
+AccelerometerData: -98.7364, -204.2403, -1370.6201 
+AccelerometerData: -100.9753, -207.0986, -1392.9060 
+AccelerometerData: -103.3113, -209.9724, -1415.3395 
+AccelerometerData: -105.7415, -212.8606, -1437.9178 
+AccelerometerData: -108.2634, -215.7466, -1460.6316 
+AccelerometerData: -110.8783, -218.6272, -1483.4716 
+AccelerometerData: -113.5756, -221.5037, -1506.4432 
+AccelerometerData: -116.3446, -224.3742, -1529.5635 
+AccelerometerData: -119.1785, -227.2441, -1552.8425 
+AccelerometerData: -122.0677, -230.1214, -1576.2957 
+AccelerometerData: -125.0028, -232.9989, -1599.9469 
+AccelerometerData: -127.9708, -235.8665, -1623.7966 
+AccelerometerData: -130.9521, -238.7299, -1647.8372 
+AccelerometerData: -133.9253, -241.5953, -1672.0671 
+AccelerometerData: -136.8753, -244.4852, -1696.4901 
+AccelerometerData: -139.7992, -247.4161, -1721.1157 
+AccelerometerData: -142.7068, -250.3859, -1745.9253 
+AccelerometerData: -145.6089, -253.3928, -1770.9180 
+AccelerometerData: -148.5121, -256.4440, -1796.1046 
+AccelerometerData: -151.4229, -259.5449, -1821.4653 
+AccelerometerData: -154.3414, -262.6997, -1846.9899 
+AccelerometerData: -157.2640, -265.9196, -1872.6753 
+AccelerometerData: -160.1944, -269.2116, -1898.5096 
+AccelerometerData: -163.1354, -272.5742, -1924.4907 
+AccelerometerData: -166.0812, -276.0037, -1950.6322 
+AccelerometerData: -169.0321, -279.4914, -1976.9583 
+AccelerometerData: -171.9856, -283.0139, -2003.4908 
+AccelerometerData: -174.9447, -286.5536, -2030.2253 
+AccelerometerData: -177.9200, -290.0987, -2057.1460 
+AccelerometerData: -180.9092, -293.6431, -2084.2537 
+AccelerometerData: -183.9057, -297.1819, -2111.5525 
+AccelerometerData: -186.9187, -300.7054, -2139.0393 
+AccelerometerData: -189.9516, -304.1984, -2166.7166 
+AccelerometerData: -192.9993, -307.6264, -2194.5793 
+AccelerometerData: -196.0507, -310.9786, -2222.6140 
+AccelerometerData: -199.0937, -314.2628, -2250.8354 
+AccelerometerData: -202.1351, -317.4812, -2279.2563 
+AccelerometerData: -205.1980, -320.6674, -2307.8630 
+AccelerometerData: -208.2916, -323.8461, -2336.6553 
+AccelerometerData: -211.4032, -327.0184, -2365.6443 
+AccelerometerData: -214.5246, -330.1937, -2394.8293 
+AccelerometerData: -217.6529, -333.3847, -2424.2073 
+AccelerometerData: -220.7850, -336.6039, -2453.7759 
+AccelerometerData: -223.9124, -339.8673, -2483.5376 
+AccelerometerData: -227.0320, -343.1902, -2513.4805 
+AccelerometerData: -230.1472, -346.5840, -2543.5847 
+AccelerometerData: -233.2586, -350.0526, -2573.8430 
+AccelerometerData: -236.3642, -353.5939, -2604.2517 
+AccelerometerData: -239.4649, -357.2054, -2634.8167 
+AccelerometerData: -242.5647, -360.8805, -2665.5588 
+AccelerometerData: -245.6636, -364.6095, -2696.5022 
+AccelerometerData: -248.7643, -368.3756, -2727.6511 
+AccelerometerData: -251.8790, -372.1690, -2759.0071 
+AccelerometerData: -255.0139, -375.9819, -2790.5674 
+AccelerometerData: -258.1671, -379.7946, -2822.3132 
+AccelerometerData: -261.3435, -383.5935, -2854.2263 
+AccelerometerData: -264.5423, -387.3724, -2886.3137 
+AccelerometerData: -267.7600, -391.1373, -2918.5945 
+AccelerometerData: -270.9927, -394.8953, -2951.0713 
+AccelerometerData: -274.2330, -398.6415, -2983.7537 
+AccelerometerData: -277.4759, -402.3764, -3016.6362 
+AccelerometerData: -280.7179, -406.0975, -3049.7124 
+AccelerometerData: -283.9602, -409.8031, -3082.9829 
+AccelerometerData: -287.2038, -413.5013, -3116.4436 
+AccelerometerData: -290.4509, -417.2007, -3150.0962 
+AccelerometerData: -293.7035, -420.9063, -3183.9429 
+AccelerometerData: -296.9580, -424.6165, -3217.9917 
+AccelerometerData: -300.2140, -428.3253, -3252.2524 
+AccelerometerData: -303.4788, -432.0295, -3286.7117 
+AccelerometerData: -306.7548, -435.7236, -3321.3635 
+AccelerometerData: -310.0393, -439.4088, -3356.2053 
+AccelerometerData: -313.3322, -443.0973, -3391.2317 
+AccelerometerData: -316.6337, -446.7955, -3426.4517 
+AccelerometerData: -319.9424, -450.5033, -3461.8706 
+AccelerometerData: -323.2572, -454.2147, -3497.5027 
+AccelerometerData: -326.5759, -457.9237, -3533.3301 
+AccelerometerData: -329.8935, -461.6231, -3569.3469 
+AccelerometerData: -333.2112, -465.3138, -3605.5627 
+AccelerometerData: -336.5315, -469.0034, -3641.9653 
+AccelerometerData: -339.8555, -472.6956, -3678.5554 
+AltitudeMetersData: 8.8098 
+AltitudeMetersData: 8.8098 
+AltitudeMetersData: 8.8105 
+AltitudeMetersData: 8.8113 
+AltitudeMetersData: 8.8113 
+AltitudeMetersData: 8.8113 
+AltitudeMetersData: 8.8113 
+AltitudeMetersData: 8.8120 
+AltitudeMetersData: 8.8113 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8150 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8128 
+AltitudeMetersData: 8.8105 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8128 
+AltitudeMetersData: 8.8120 
+AltitudeMetersData: 8.8142 
+AltitudeMetersData: 8.8120 
+AltitudeMetersData: 8.8142 
+AltitudeMetersData: 8.8128 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8128 
+AltitudeMetersData: 8.8135 
+AltitudeMetersData: 8.8150 
+AltitudeMetersData: 8.8164 
+AltitudeMetersData: 8.8172 
+AltitudeMetersData: 8.8150 
+AltitudeMetersData: 8.8172 
+AltitudeMetersData: 8.8179 
+AltitudeMetersData: 8.8179 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8179 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8179 
+AltitudeMetersData: 8.8201 
+AltitudeMetersData: 8.8194 
+AltitudeMetersData: 8.8201 
+AltitudeMetersData: 8.8208 
+AltitudeMetersData: 8.8216 
+AltitudeMetersData: 8.8223 
+AltitudeMetersData: 8.8223 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8238 
+AltitudeMetersData: 8.8223 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8245 
+AltitudeMetersData: 8.8238 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8245 
+AltitudeMetersData: 8.8245 
+AltitudeMetersData: 8.8245 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8267 
+AltitudeMetersData: 8.8267 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8267 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8319 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8326 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8319 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8326 
+AltitudeMetersData: 8.8334 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8312 
+AltitudeMetersData: 8.8319 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8297 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8304 
+AltitudeMetersData: 8.8289 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8282 
+AltitudeMetersData: 8.8275 
+AltitudeMetersData: 8.8267 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8253 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8260 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8238 
+AltitudeMetersData: 8.8216 
+AltitudeMetersData: 8.8194 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8223 
+AltitudeMetersData: 8.8208 
+AltitudeMetersData: 8.8216 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8245 
+AltitudeMetersData: 8.8231 
+AltitudeMetersData: 8.8216 
+AltitudeMetersData: 8.8208 
+AltitudeMetersData: 8.8208 
+AltitudeMetersData: 8.8216 
+AltitudeMetersData: 8.8194 
+AltitudeMetersData: 8.8208 
+AltitudeMetersData: 8.8201 
+AltitudeMetersData: 8.8194 
+AltitudeMetersData: 8.8164 
+AltitudeMetersData: 8.8172 
+AltitudeMetersData: 8.8172 
+AltitudeMetersData: 8.8179 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8172 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8186 
+AltitudeMetersData: 8.8186 
+TemperatureData: 24.9458 
+TemperatureData: 24.9458 
+TemperatureData: 24.9479 
+TemperatureData: 24.9500 
+TemperatureData: 24.9500 
+TemperatureData: 24.9500 
+TemperatureData: 24.9500 
+TemperatureData: 24.9521 
+TemperatureData: 24.9500 
+TemperatureData: 24.9562 
+TemperatureData: 24.9604 
+TemperatureData: 24.9562 
+TemperatureData: 24.9562 
+TemperatureData: 24.9562 
+TemperatureData: 24.9542 
+TemperatureData: 24.9479 
+TemperatureData: 24.9562 
+TemperatureData: 24.9542 
+TemperatureData: 24.9521 
+TemperatureData: 24.9583 
+TemperatureData: 24.9521 
+TemperatureData: 24.9583 
+TemperatureData: 24.9542 
+TemperatureData: 24.9562 
+TemperatureData: 24.9562 
+TemperatureData: 24.9542 
+TemperatureData: 24.9562 
+TemperatureData: 24.9604 
+TemperatureData: 24.9646 
+TemperatureData: 24.9667 
+TemperatureData: 24.9604 
+TemperatureData: 24.9667 
+TemperatureData: 24.9688 
+TemperatureData: 24.9688 
+TemperatureData: 24.9708 
+TemperatureData: 24.9688 
+TemperatureData: 24.9708 
+TemperatureData: 24.9708 
+TemperatureData: 24.9688 
+TemperatureData: 24.9750 
+TemperatureData: 24.9729 
+TemperatureData: 24.9750 
+TemperatureData: 24.9771 
+TemperatureData: 24.9792 
+TemperatureData: 24.9813 
+TemperatureData: 24.9813 
+TemperatureData: 24.9833 
+TemperatureData: 24.9833 
+TemperatureData: 24.9833 
+TemperatureData: 24.9833 
+TemperatureData: 24.9854 
+TemperatureData: 24.9813 
+TemperatureData: 24.9833 
+TemperatureData: 24.9875 
+TemperatureData: 24.9854 
+TemperatureData: 24.9833 
+TemperatureData: 24.9875 
+TemperatureData: 24.9875 
+TemperatureData: 24.9875 
+TemperatureData: 24.9917 
+TemperatureData: 24.9917 
+TemperatureData: 24.9937 
+TemperatureData: 24.9937 
+TemperatureData: 24.9917 
+TemperatureData: 24.9937 
+TemperatureData: 24.9917 
+TemperatureData: 24.9958 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 25.0021 
+TemperatureData: 24.9958 
+TemperatureData: 24.9958 
+TemperatureData: 24.9958 
+TemperatureData: 25.0000 
+TemperatureData: 25.0021 
+TemperatureData: 25.0000 
+TemperatureData: 25.0063 
+TemperatureData: 25.0021 
+TemperatureData: 25.0063 
+TemperatureData: 25.0042 
+TemperatureData: 25.0042 
+TemperatureData: 25.0083 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 25.0000 
+TemperatureData: 24.9958 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0021 
+TemperatureData: 24.9979 
+TemperatureData: 25.0042 
+TemperatureData: 25.0021 
+TemperatureData: 25.0021 
+TemperatureData: 25.0042 
+TemperatureData: 25.0104 
+TemperatureData: 25.0042 
+TemperatureData: 25.0063 
+TemperatureData: 25.0083 
+TemperatureData: 25.0042 
+TemperatureData: 25.0104 
+TemperatureData: 25.0125 
+TemperatureData: 25.0063 
+TemperatureData: 25.0042 
+TemperatureData: 25.0063 
+TemperatureData: 25.0042 
+TemperatureData: 25.0063 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0000 
+TemperatureData: 25.0021 
+TemperatureData: 25.0000 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 24.9979 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9958 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0021 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 25.0021 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 25.0063 
+TemperatureData: 25.0021 
+TemperatureData: 25.0042 
+TemperatureData: 25.0063 
+TemperatureData: 25.0083 
+TemperatureData: 25.0042 
+TemperatureData: 25.0042 
+TemperatureData: 24.9979 
+TemperatureData: 25.0021 
+TemperatureData: 25.0000 
+TemperatureData: 25.0021 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 25.0021 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 25.0000 
+TemperatureData: 25.0042 
+TemperatureData: 25.0000 
+TemperatureData: 24.9979 
+TemperatureData: 24.9979 
+TemperatureData: 24.9958 
+TemperatureData: 24.9937 
+TemperatureData: 24.9917 
+TemperatureData: 24.9917 
+TemperatureData: 24.9896 
+TemperatureData: 24.9917 
+TemperatureData: 24.9917 
+TemperatureData: 24.9917 
+TemperatureData: 24.9833 
+TemperatureData: 24.9854 
+TemperatureData: 24.9792 
+TemperatureData: 24.9729 
+TemperatureData: 24.9708 
+TemperatureData: 24.9813 
+TemperatureData: 24.9771 
+TemperatureData: 24.9792 
+TemperatureData: 24.9833 
+TemperatureData: 24.9833 
+TemperatureData: 24.9875 
+TemperatureData: 24.9833 
+TemperatureData: 24.9792 
+TemperatureData: 24.9771 
+TemperatureData: 24.9771 
+TemperatureData: 24.9792 
+TemperatureData: 24.9729 
+TemperatureData: 24.9771 
+TemperatureData: 24.9750 
+TemperatureData: 24.9729 
+TemperatureData: 24.9646 
+TemperatureData: 24.9667 
+TemperatureData: 24.9667 
+TemperatureData: 24.9688 
+TemperatureData: 24.9708 
+TemperatureData: 24.9708 
+TemperatureData: 24.9667 
+TemperatureData: 24.9708 
+TemperatureData: 24.9708 
+TemperatureData: 24.9708 
+MDirectionData: -4.5107, 2.1632, 1.5323 
+MDirectionData: -4.5226, 2.2027, 1.5323 
+MDirectionData: -4.1300, 2.1919, 1.5323 
+MDirectionData: -4.1013, 2.2122, 1.5323 
+MDirectionData: -4.2126, 2.2027, 1.5323 
+MDirectionData: -4.4161, 2.2362, 1.5323 
+MDirectionData: -4.4293, 2.2769, 1.5323 
+MDirectionData: -4.4281, 2.3415, 1.2258 
+MDirectionData: -4.5226, 2.3296, 1.5323 
+MDirectionData: -4.5167, 2.3008, 1.5323 
+MDirectionData: -4.4831, 2.3511, 1.5323 
+MDirectionData: -4.6268, 2.2841, 1.5323 
+MDirectionData: -4.5981, 2.2494, 1.5323 
+MDirectionData: -4.5813, 2.3020, 1.5323 
+MDirectionData: -4.4652, 2.4816, 1.5323 
+MDirectionData: -4.3443, 2.6875, 1.2258 
+MDirectionData: -4.1492, 2.8587, 1.5323 
+MDirectionData: -3.8547, 2.9161, 1.5323 
+MDirectionData: -3.7026, 3.0777, 1.2258 
+MDirectionData: -3.6452, 3.1568, 1.2258 
+MDirectionData: -3.3279, 3.1711, 0.9194 
+MDirectionData: -3.0502, 3.2429, 0.9194 
+MDirectionData: -2.6013, 3.3076, 0.9194 
+MDirectionData: -2.4493, 3.0047, 0.9194 
+MDirectionData: -2.2494, 2.7497, 0.9194 
+MDirectionData: -1.9321, 2.6073, 1.2258 
+MDirectionData: -1.6352, 2.5379, 1.2258 
+MDirectionData: -1.8447, 2.3727, 0.9194 
+MDirectionData: -1.7609, 2.2625, 0.9194 
+MDirectionData: -1.5874, 2.1069, 0.9194 
+MDirectionData: -1.5814, 1.9561, 0.9194 
+MDirectionData: -1.5359, 1.7322, 1.2258 
+MDirectionData: -1.4676, 1.7454, 1.2258 
+MDirectionData: -1.3336, 1.8531, 0.9194 
+MDirectionData: -1.3527, 1.8232, 0.9194 
+MDirectionData: -1.3898, 1.7382, 0.9194 
+MDirectionData: -1.4784, 1.7442, 0.9194 
+MDirectionData: -1.4545, 1.7083, 0.9194 
+MDirectionData: -1.4234, 1.7526, 0.9194 
+MDirectionData: -1.4042, 1.6376, 0.9194 
+MDirectionData: -1.3791, 1.5299, 0.9194 
+MDirectionData: -1.2941, 1.5119, 0.9194 
+MDirectionData: -1.4892, 1.4389, 0.9194 
+MDirectionData: -1.4784, 1.5012, 0.9194 
+MDirectionData: -1.4198, 1.4844, 0.9194 
+MDirectionData: -1.3300, 1.4018, 0.9194 
+MDirectionData: -1.2151, 1.4617, 0.9194 
+MDirectionData: -1.2953, 1.3288, 0.9194 
+MDirectionData: -1.2462, 1.4772, 0.9194 
+MDirectionData: -1.2163, 1.6544, 0.6129 
+MDirectionData: -1.3252, 1.6269, 0.6129 
+MDirectionData: -1.3994, 1.6448, 0.6129 
+MDirectionData: -1.4042, 1.6257, 0.6129 
+MDirectionData: -1.2390, 1.8088, 0.3065 
+MDirectionData: -1.2462, 1.7262, 0.6129 
+MDirectionData: -1.2953, 1.6340, 0.6129 
+MDirectionData: -1.3527, 1.6556, 0.6129 
+MDirectionData: -1.4186, 1.6508, 0.6129 
+MDirectionData: -1.4449, 1.7921, 0.6129 
+MDirectionData: -1.3815, 1.7693, 0.6129 
+MDirectionData: -1.3910, 1.7514, 0.6129 
+MDirectionData: -1.4605, 1.7681, 0.6129 
+MDirectionData: -1.4952, 1.7322, 0.9194 
+MDirectionData: -1.5119, 1.9585, 0.9194 
+MDirectionData: -1.4641, 2.1500, 0.6129 
+MDirectionData: -1.4772, 2.2051, 0.6129 
+MDirectionData: -1.4844, 2.1895, 0.6129 
+MDirectionData: -1.4317, 2.1955, 0.6129 
+MDirectionData: -1.4234, 2.1919, 0.6129 
+MDirectionData: -1.4569, 2.1811, 0.3065 
+MDirectionData: -1.4078, 2.0770, 0.3065 
+MDirectionData: -1.3838, 1.9561, 0.3065 
+MDirectionData: -1.3072, 1.9106, 0.3065 
+MDirectionData: -1.2785, 1.9920, 0.3065 
+MDirectionData: -1.2234, 1.9704, 0.3065 
+MDirectionData: -1.1648, 1.9309, 0.3065 
+MDirectionData: -1.2833, 2.0147, 0.0000 
+MDirectionData: -1.4796, 2.2589, 0.0000 
+MDirectionData: -1.8256, 2.5522, 0.0000 
+MDirectionData: -2.2972, 2.9149, 0.0000 
+MDirectionData: -2.7821, 3.1149, 0.0000 
+MDirectionData: -3.0921, 3.0418, 0.3065 
+MDirectionData: -3.4153, 2.9317, 0.3065 
+MDirectionData: -3.6679, 2.8371, 0.3065 
+MDirectionData: -3.9205, 2.7318, 0.6129 
+MDirectionData: -4.1468, 2.5750, 0.6129 
+MDirectionData: -4.3431, 2.3966, 0.6129 
+MDirectionData: -4.5286, 2.2458, 0.9194 
+MDirectionData: -4.6914, 2.1775, 0.9194 
+MDirectionData: -4.8578, 2.0865, 0.9194 
+MDirectionData: -4.7597, 1.9932, 0.9194 
+MDirectionData: -3.8942, 1.7992, 1.5323 
+MDirectionData: -2.8323, 1.5969, 1.5323 
+MDirectionData: -1.8004, 1.1983, 1.2258 
+MDirectionData: -1.0594, 0.9337, 0.9194 
+MDirectionData: -0.5471, 0.4896, 0.6129 
+MDirectionData: -0.2358, 0.1437, 0.3065 
+MDirectionData: -0.1209, -0.1437, 0.3065 
+MDirectionData: -0.2251, -0.3962, 0.6129 
+MDirectionData: -0.5303, -0.6345, 0.9194 
+MDirectionData: -1.0690, -0.6656, 1.2258 
+MDirectionData: -1.7705, -0.4082, 1.8387 
+MDirectionData: -2.6552, -0.1808, 1.8387 
+MDirectionData: -3.9025, 0.1149, 2.1452 
+MDirectionData: -4.9273, 0.3472, 1.5323 
+MDirectionData: -5.8466, 0.4166, 1.2258 
+MDirectionData: -6.2800, 0.3711, 0.9194 
+MDirectionData: -6.4584, 0.1389, 0.3065 
+MDirectionData: -6.4356, -0.1784, -0.3065 
+MDirectionData: -6.3554, -0.3603, -0.6129 
+MDirectionData: -6.2752, -0.4178, -0.6129 
+MDirectionData: -6.2572, -0.4633, -0.3065 
+MDirectionData: -6.1208, -0.3555, 0.3065 
+MDirectionData: -5.7521, -0.1149, 0.9194 
+MDirectionData: -5.0554, 0.0587, 1.2258 
+MDirectionData: -4.6567, 0.0718, 1.5323 
+MDirectionData: -4.2090, 0.0156, 1.8387 
+MDirectionData: -3.4872, -0.0862, 1.8387 
+MDirectionData: -3.1161, -0.0359, 1.8387 
+MDirectionData: -2.7031, -0.1197, 1.5323 
+MDirectionData: -2.1177, -0.1460, 1.5323 
+MDirectionData: -1.3946, -0.2239, 1.2258 
+MDirectionData: -1.0295, -0.0646, 1.2258 
+MDirectionData: -0.8200, -0.0694, 0.9194 
+MDirectionData: -0.6285, 0.0706, 0.6129 
+MDirectionData: -0.8116, 0.0682, 0.9194 
+MDirectionData: -1.1253, 0.0658, 1.2258 
+MDirectionData: -1.6257, 0.0491, 1.5323 
+MDirectionData: -2.2733, 0.0527, 1.8387 
+MDirectionData: -2.8635, 0.0970, 1.8387 
+MDirectionData: -3.4381, 0.0910, 2.1452 
+MDirectionData: -4.0785, 0.2370, 2.1452 
+MDirectionData: -4.7824, 0.4405, 1.8387 
+MDirectionData: -5.4025, 0.5207, 1.5323 
+MDirectionData: -5.9568, 0.3436, 1.2258 
+MDirectionData: -5.8838, 0.4932, 1.2258 
+MDirectionData: -5.2912, 0.7003, 1.5323 
+MDirectionData: -5.2349, 0.7853, 1.5323 
+MDirectionData: -4.9668, 1.2534, 1.5323 
+MDirectionData: -4.7142, 2.0518, 1.5323 
+MDirectionData: -4.7669, 2.6911, 1.2258 
+MDirectionData: -4.3946, 3.0825, 0.9194 
+MDirectionData: -4.3239, 3.0299, 1.2258 
+MDirectionData: -3.8738, 2.7461, 1.5323 
+MDirectionData: -3.8559, 2.3595, 1.8387 
+MDirectionData: -3.7960, 1.9166, 2.1452 
+MDirectionData: -3.7086, 1.6472, 2.1452 
+MDirectionData: -3.6057, 1.2055, 2.4517 
+MDirectionData: -3.7888, 0.6069, 2.4517 
+MDirectionData: -3.8247, -0.1041, 2.1452 
+MDirectionData: -3.6129, -0.5291, 2.1452 
+MDirectionData: -3.2825, -0.8643, 2.1452 
+MDirectionData: -3.2358, -1.1085, 2.1452 
+MDirectionData: -3.4165, -1.2390, 1.8387 
+MDirectionData: -3.2669, -1.3216, 1.8387 
+MDirectionData: -3.3232, -1.0499, 1.8387 
+MDirectionData: -3.0993, -0.5902, 2.1452 
+MDirectionData: -2.7869, 0.1065, 2.4517 
+MDirectionData: -2.9784, 0.8559, 2.4517 
+MDirectionData: -3.0861, 1.4808, 2.4517 
+MDirectionData: -3.2406, 2.1787, 2.1452 
+MDirectionData: -3.3220, 2.5821, 1.8387 
+MDirectionData: -3.5267, 3.0574, 1.5323 
+MDirectionData: -3.9325, 3.5015, 0.9194 
+MDirectionData: -3.8810, 3.8056, 0.6129 
+MDirectionData: -3.8966, 4.0043, 0.3065 
+MDirectionData: -3.7840, 4.1408, 0.0000 
+MDirectionData: -3.7002, 4.1240, 0.0000 
+MDirectionData: -3.5099, 4.1300, 0.3065 
+MDirectionData: -3.3351, 4.1180, 0.6129 
+MDirectionData: -3.0071, 3.9828, 0.9194 
+MDirectionData: -2.4852, 3.6488, 1.5323 
+MDirectionData: -2.2996, 2.9987, 1.8387 
+MDirectionData: -2.0530, 2.4110, 2.1452 
+MDirectionData: -1.5957, 1.7968, 2.4517 
+MDirectionData: -0.9972, 1.0439, 2.1452 
+MDirectionData: -0.9361, 0.7721, 2.1452 
+MDirectionData: -0.8643, 0.9804, 2.1452 
+MDirectionData: -0.7865, 1.3024, 2.1452 
+MDirectionData: -0.7266, 1.3958, 2.1452 
+MDirectionData: -0.7075, 1.3815, 2.1452 
+MDirectionData: -0.7434, 1.2941, 2.1452 
+MDirectionData: -0.6309, 1.2486, 1.8387 
+MDirectionData: -0.5878, 1.0798, 1.8387 
+MDirectionData: -0.4812, 0.9744, 1.8387 
+MDirectionData: -0.4106, 0.9720, 1.8387 
+MDirectionData: -0.4393, 1.0343, 1.8387 
+MDirectionData: -0.4501, 1.0582, 1.8387 
+MDirectionData: -0.3915, 1.0690, 1.8387 
+MDirectionData: -0.5004, 1.0618, 1.8387 
+MDirectionData: -0.4274, 1.0690, 1.8387 
+MDirectionData: -0.4764, 1.0068, 1.8387 
+MDirectionData: -0.4764, 0.9170, 1.8387 
+MDirectionData: -0.4836, 0.9266, 1.8387 
+MDirectionData: -0.5495, 0.8727, 1.8387 
+MDirectionData: -0.4968, 0.8631, 1.8387 
+MDirectionData: -0.5758, 0.8607, 1.8387 
+MDirectionData: -0.5171, 0.8535, 1.8387 
+MDirectionData: -0.5028, 0.8248, 1.8387 
+MDirectionData: -0.4681, 0.8499, 1.5323 
